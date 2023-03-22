@@ -1,0 +1,47 @@
+00:00~00:12-If you like electronics/create electronics gadgets, then you need to have a clear idea on electronic components first.
+We will introduce with some general electronic components today in this video.
+
+00:20~00:32-Resistor: this is the most used component in electronic devices.
+This is an electrical component that limits or regulates the flow of electrical current in an electronic circuit. 
+
+00:38~00:52-Potentiometer: this is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider.
+The potentiometer is an instrument used for measuring the unknown voltage by comparing it with the known voltage. 
+
+00:57~01:15-Capacitor: this is a device for storing electrical energy, consisting of two conductors in close proximity and insulated from each other.
+Capacitors are widely used in electronic circuits for blocking direct current while allowing alternating current to pass. 
+
+01:19~01:32-Ceramic Disc Capacitor: ceramic disc capacitor is a fixed-value capacitor where the ceramic material acts as the dielectric.
+This is manufactured by coating a ceramic disc with silver contacts on both sides.
+
+01:35~01:47-Inductor: this is a passive component that is used in most electrical circuits to store energy in the form of magnetic energy when electric current flows through it.
+Genetor, motor, transformer use this component.
+
+01:50~02:09-Transformer: transformer is a device that transfers electric energy from one alternating-current circuit to one or more other circuits, either increasing or reducing the voltage.
+It is designed to either increase or decrease AC voltage between the circuits while maintaining the frequency of the current.
+
+02:13~02:31-Diode: this is a two-terminal electronic component that conducts electricity primarily in one direction.
+Diodes can be used as rectifiers, signal limiters, voltage regulators, switches, signal modulators, signal mixers, signal demodulators, and oscillators. 
+
+02:33~02:51-LED: LED is a semiconductor device, which can emit light when an electric current passes through it.
+LEDs are increasingly common in street lights, parking garage lighting, walkway and other outdoor area lighting, refrigerated case lighting, modular lighting, and task lighting.
+
+02:56~03:07-Bridge rectifier: bridge rectifier is a type of full-wave rectifier that uses four or more diodes in a bridge circuit configuration to convert alternating current to a direct current.
+
+03:11~03:27-Transistor: this is a type of a semiconductor device that can be used to both conduct and insulate electric current or voltage. 
+A transistor basically acts as a switch and an amplifier. 
+This is used to control or regulate the flow of electronic signals.
+
+03:30~03:43-IC: this component is the fundamental building block of all modern electronic devices.
+An IC can function as an amplifier, oscillator, timer, counter, logic gate, computer memory, microcontroller or microprocessor.
+
+03:46~04:05-Relay: this is an electrically operated switch that open and close the circuits by receiving electrical signals from outside sources.
+Relays are used where it is necessary to control a circuit by an independent low-power signal, or where several circuits must be controlled by one signal.
+
+04:09~04:26-Fuse: this is a safety device that protects electrical circuits from the effects of excessive currents.
+The fuse contains a piece of wire that melts easily. 
+If the current going through the fuse is too great, the wire heats up until it melts and breaks the circuit.
+
+04:30~04:38-LCD: LCD is a type of flat panel display which uses liquid crystals in its primary form of operation.
+
+04:41~05:00-Crocodile and Banana connector: crocodile clip or alligator clip is a plier-like spring-tensioned metal clip with elongated, serrated jaws that is used for creating a temporary electrical connection.
+A banana connector is a single-wire electrical connector used for joining wires to equipment.
